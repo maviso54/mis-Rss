@@ -1,38 +1,26 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Canal de Notícies Institut de Prova</title>
-    <link>https://elteuusuari.github.io/</link>
-    <description>Totes les novetats del nostre centre educatiu en temps real.</description>
+    <title>Notícies de l'Institut de Prova</title>
+    <link>https://elteuusuari.github.io/el-meu-rss/</link>
+    <description>Actualitat i avisos del centre educatiu</description>
     <language>ca</language>
-    <copyright>2026 Institut de Prova</copyright>
+    
+    <atom:link href="https://elteuusuari.github.io/el-meu-rss/centre_educatiu.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>Jornada de Portes Obertes 2026</title>
-      <description>Vine a conèixer les nostres instal·lacions el proper dissabte 21 de febrer.</description>
-      <link>https://elteuusuari.github.io/portes-obertes</link>
-      <author>direccio@institut.cat (Direcció)</author>
-      <category>Informació General</category>
-      <pubDate>Tue, 10 Feb 2026 09:00:00 +0100</pubDate>
+      <title>Convocatòria Beques de Menjador 2026</title>
+      <description>S'ha obert el termini per sol·licitar els ajuts. Teniu tota la documentació a la secretaria.</description>
+      <link>https://elteuusuari.github.io/el-meu-rss/noticia1.html</link>
+      <guid isPermaLink="true">https://elteuusuari.github.io/el-meu-rss/noticia1.html</guid>
+      <pubDate>Wed, 11 Feb 2026 10:00:00 +0100</pubDate>
     </item>
 
     <item>
-      <title>L'alumnat de 2n d'ESO arriba a les colònies</title>
-      <description>L'autocar ha arribat puntualment a la casa de colònies. Tots estan bé.</description>
-      <link>https://elteuusuari.github.io/colonies</link>
-      <author>tutors@institut.cat (Equip Docent)</author>
-      <category>Activitats</category>
-      <pubDate>Mon, 09 Feb 2026 12:30:00 +0100</pubDate>
+      <title>Èxit de la Jornada de Portes Obertes</title>
+      <description>Més de 100 famílies ens han visitat per conèixer el nostre projecte educatiu.</description>
+      <link>https://elteuusuari.github.io/el-meu-rss/noticia2.html</link>
+      <guid isPermaLink="true">https://elteuusuari.github.io/el-meu-rss/noticia2.html</guid>
+      <pubDate>Tue, 10 Feb 2026 16:30:00 +0100</pubDate>
     </item>
-
-    <item>
-      <title>Convocatòria de Beques de Menjador</title>
-      <description>S'ha obert el termini de sol·licitud per als ajuts del curs 2026-2027.</description>
-      <link>https://elteuusuari.github.io/beques</link>
-      <author>secretaria@institut.cat (Secretaria)</author>
-      <category>Administració</category>
-      <pubDate>Wed, 11 Feb 2026 14:00:00 +0100</pubDate>
-    </item>
-
   </channel>
 </rss>
