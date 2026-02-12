@@ -9,6 +9,16 @@
     <atom:link href="https://maviso54.github.io/mis-Rss/centre_educatiu.xml" rel="self" type="application/rss+xml" />
 
     <item>
+     <title>Publicat el Menú del Menjador - Febrer</title>
+     <description>Ja podeu consultar el menú saludable d'aquest mes a la web del centre.</description>
+     <link>https://maviso54.github.io/mis-Rss/noticia3.html</link>
+     <guid isPermaLink="true">https://maviso54.github.io/mis-Rss/noticia3.html</guid>
+     <pubDate>Thu, 12 Feb 2026 09:00:00 +0100</pubDate>
+     <author>secretaria@institut.cat (Secretaria)</author>
+     <category>Serveis</category>
+   </item>
+
+    <item>
       <title>Convocatòria Beques de Menjador 2026</title>
       <description>S'ha obert el termini per sol·licitar els ajuts. Teniu tota la documentació a la secretaria.</description>
       <link>https://maviso54.github.io/mis-Rss/noticia1.html</link>
